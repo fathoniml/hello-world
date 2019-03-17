@@ -2,6 +2,6 @@
 
 echo "ini single";
 
-</br>
+acho "baris kedua";
 
 ?>
